@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 API used: https://covid19.mathdro.id/api
 
+Live Demo : https://cocky-blackwell-233bb2.netlify.app
+
 Setup:
 
 run npm i && npm start
