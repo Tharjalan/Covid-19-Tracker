@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c274d31d-5a55-43a3-bc4a-4784dffd3991/deploy-status)](https://app.netlify.com/sites/covid19fetch/deploys)
 
 API used: https://covid19.mathdro.id/api
 
